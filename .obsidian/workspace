@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "876551aa63125e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "55eceb6264dc3580",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Recon_Tomnomnom/6. Internal Indicators.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d6a9276e1f14066",
+    "type": "split",
+    "children": [
+      {
+        "id": "650ad52347f646d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc65d0af0c11dbd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e3b5497a086fa35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333
+  },
+  "right": {
+    "id": "a91d14132df0b3c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d38d1c7b999144b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b69514eac13d3738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recon_Tomnomnom/6. Internal Indicators.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "55eceb6264dc3580",
+  "lastOpenFiles": [
+    "Recon_Tomnomnom/6. Internal Indicators.md",
+    "Recon_Tomnomnom/5. Look for Employees Repositories for Information Leak.md",
+    "Recon_Tomnomnom/4.Feed found domains to Wayback Urls.md",
+    "Recon_Tomnomnom/3. Github Dorking.md",
+    "Recon_Tomnomnom/2. Google Dorking.md",
+    "Recon_Tomnomnom/1. Subdomain Enumeration.md",
+    "DOM_XSS_finding_methodology/1.Find event handlers using chrome dev tools that can take user data as input.md",
+    "DOM_XSS_finding_methodology/Untitled.md",
+    "Tools_Tomnomnom/4. Golang vast library.md",
+    "Tools_Tomnomnom/3. Curl and Grep.md"
+  ]
+}
